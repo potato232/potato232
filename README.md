@@ -2,7 +2,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.instagram.com/potato_232_/" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/></a><a href="https://www.youtube.com/@potato232" target="blank"><img src="https://www.youtube.com/s/desktop/9d2e520a/img/logos/favicon_144x144.png"  height="35" width="37" /></a>
+<a href="https://www.instagram.com/potato_232_/" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/></a>  <a href="https://www.youtube.com/@potato232" target="blank"><img src="https://www.youtube.com/s/desktop/9d2e520a/img/logos/favicon_144x144.png"  height="35" width="37" /></a>
 </p>
 <hr>
 
